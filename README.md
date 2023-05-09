@@ -1,2 +1,2 @@
 # jogoMario
-Jogo simples do Mário com Html e JavaScript
+Jogo simples do Mário com Html, JavaScript e CSS
